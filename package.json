@@ -11,6 +11,6 @@
     "typescript": "^5.1.6"
   },
   "scripts": {
-    "serve": "lite-server"
+    "serve": "lite-server src"
   }
 }
